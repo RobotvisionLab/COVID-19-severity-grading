@@ -16,6 +16,7 @@ python ConvertLabel.py
 |  Total |   1843   |   1677   |  3520 |
 
 ## Link to Oringal public dataset
+[COVID-19 CT Lung and Infection Segmentation Dataset](https://zenodo.org/record/3757476)
 
 ## Link to Lung images and labels (Used in this work)
 
