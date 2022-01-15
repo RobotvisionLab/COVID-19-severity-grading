@@ -9,7 +9,7 @@ python ConvertLabel.py
 
 # 4. Lung and Leison Segmentation Dataset
 ## Details
-|        | Positive | Negative | Total |
+|        | Infected | Healthy  | Total |
 |  ----  | ----     | ----     | ----  |
 |  Train |   1474   |   1341   |  285  |
 |  Test  |   369    |   336    |  705  |
@@ -19,8 +19,10 @@ python ConvertLabel.py
 [COVID-19 CT Lung and Infection Segmentation Dataset](https://zenodo.org/record/3757476)
 
 ## Link to Lung images and labels (Used in this work)
+[Lung Images and Labels](链接: https://pan.baidu.com/s/10r40FCKxfHnHzuAHpUmGZQ 提取码: rsir --来自百度网盘超级会员v4的分享)
 
 ## Link to refined Lesion labels  (Used in this work)
+[Lesion Images and Labels](链接: https://pan.baidu.com/s/1JevzPnbsWZKYx8MyQJutfQ 提取码: t55o --来自百度网盘超级会员v4的分享)
 
 # 5. Our datasets
 ## Details
@@ -72,4 +74,11 @@ python ConvertLabel.py
 |         | 1806-2-D |   62     |   269   |
 |         | 1807-1-D |   270    |   250   |
 |         | 1807-2-D |   197    |   134   |
+
+| Infected | Healthy  | Total |
+| ----     | ----     | ----  |
+|   2882   |  15991   | 18873 |
+
+## Link to our dataset
+[Our Dataset](https://pan.baidu.com/s/18fOGli18_OM-SBrUj38lxg)
 
