@@ -8,7 +8,8 @@ python FrangiFilter.py
 python ConvertLabel.py
 
 # 4. Lung and Leison Segmentation Dataset
-|          | Positive | Negative | Total |
-|  Train   |   1474   |   1341   |  285  |
-|  Test    |   369    |   336    |  705  |
-|  Total   |   1843   |   1677   |  3520 |
+|        | Positive | Negative | Total |
+|  ----  | ----     | ----     | ----  |
+|  Train |   1474   |   1341   |  285  |
+|  Test  |   369    |   336    |  705  |
+|  Total |   1843   |   1677   |  3520 |
