@@ -1,7 +1,7 @@
 import cv2
 import os
 import numpy as np
-from FranjiFilter import GetVesshancementMask
+from FrangiFilter import GetVesshancementMask
 
 IMAGE_SIZE = [672, 752]
 
