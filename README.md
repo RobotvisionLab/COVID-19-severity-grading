@@ -22,4 +22,10 @@ python ConvertLabel.py
 
 ## Link to refined Lesion labels  (Used in this work)
 
-## Link to our datasets
+# 5. Our datasets
+## Details
+|  Dir   |  SubDir  | Infected | Healthy |
+|  ----  | ----     | ----     |   ----  |
+|  Train |   1474   |   1341   |  285  |
+|  Test  |   369    |   336    |  705  |
+|  Total |   1843   |   1677   |  3520 |
