@@ -36,7 +36,7 @@ python ConvertLabel.py
 [Lesion Images and Labels](链接: https://pan.baidu.com/s/1JevzPnbsWZKYx8MyQJutfQ 提取码: t55o --来自百度网盘超级会员v4的分享)
 
 # 5. Severity dataset of lesion
-[Severity Dataset of Lesion](https://github.com/RobotvisionLab/COVID-19-severity-grading/tree/main/classification)
+[grading.xlsx](https://github.com/RobotvisionLab/COVID-19-severity-grading/tree/main/classification)
 
 # 6. Our datasets
 ## 6.1. Details
