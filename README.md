@@ -1,3 +1,14 @@
+# 0. Environment
+Ubuntu 16.04
+CUDA 10.1
+cuDNN 7.6
+python 3.8 
+pillow 7.0.0
+pytorch 1.5.0
+Opencv 4.2.0
+torchvision 0.6.0
+tqdm 4.61.1
+
 # 1. COVID-19-severity-grading
 COVID-19 severity grading by refined labels and  gray-scale density 
 
