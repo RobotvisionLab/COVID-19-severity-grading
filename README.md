@@ -1,2 +1,8 @@
-# COVID-19-severity-grading
+# 1. COVID-19-severity-grading
 COVID-19 severity grading by refined labels and  gray-scale density 
+
+# 2. Run a demo for generating a vessel mask of a CT image
+python FrangiFilter.py
+
+# 3. Run a demo for convert a original two-category lesion label to a refined muli-category lesion label
+python ConvertLabel.py
